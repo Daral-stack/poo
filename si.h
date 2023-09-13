@@ -8,5 +8,5 @@ mascota::mascota(){
 void mascota::saluda()
 {
     cout<<"holasdsdas"<<nombre<<endl;
-    cout<<"tu mascota"<<tipo<<"Te ama";
+    cout<<"tu mascota"<<tipo<<"NO te ama";
 }
